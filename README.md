@@ -1,16 +1,18 @@
-## Hi there 👋
+## Merhaba Dünyalı 👋
 
-<!--
-**semihkurucay/semihkurucay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ben **Semih Kuruçay**, Dr. Nurettin Erk Perian Erk MTAL'den Veri Tabanı bölümünden mezun oldum.
+Burası benim özgün ve yeni deneyimlerimi paylaştığım bir ortam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Bildiğim diller ve ilgilendiğim uygulamalar;
+- Java
+- C#
+- SQL
+- Photoshop
+
+Kapanışı bir söz ile bitiriyorum : 
+
+"Kod yalan söylemez, yorumlar bazen söyler.
+
+Ron Jeffries"
