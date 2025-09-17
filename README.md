@@ -26,4 +26,5 @@ Ben *Semih Kuruçay*, Dr. Nurettin Erk Perian Erk MTAL'den Veri Tabanı bölüm�
 
 ## İletişim
 
-[LinkedIn Profilim](https://www.linkedin.com/in/semih-kuruçay-246305221/?originalSubdomain=tr)
+
+<img src="https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg" alt="LinkedIn" /> [LinkedIn Profilim](https://www.linkedin.com/in/semih-kuruçay-246305221/?originalSubdomain=tr) | <img src="https://github.com/CLorant/readme-social-icons/blob/main/small/colored/instagram.svg" alt="Instegram" /> [Instegram Profilim - 1](https://www.instagram.com/semih_kurucayy/) | <img src="https://github.com/CLorant/readme-social-icons/blob/main/small/colored/instagram.svg" alt="Instegram" /> [Instegram Profilim - 2](https://www.instagram.com/sk_yazilim/)
