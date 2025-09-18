@@ -24,6 +24,11 @@ Ben *Semih Kuruçay*, Dr. Nurettin Erk Perian Erk MTAL'den Veri Tabanı bölüm�
 
 ![Profil Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=semihkurucay&color=green)
 
+| Code Wars |
+|-------------------------------------------|
+| ![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=foker110)|
+
+
 ## İletişim
 
 
