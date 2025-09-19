@@ -20,15 +20,11 @@ Ben *Semih Kuruçay*, Dr. Nurettin Erk Perian Erk MTAL'den Veri Tabanı bölüm�
 <br><br>
 ## 📈 GitHub İstatistiklerim
 
-| İstatistikler | En Çok Kullanılan Diller |
-|---------------|---------------------------|
-| ![Semih'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=semihkurucay&show_icons=true&theme=dark&count_private=true&bg_color=000000&text_color=00FF00&icon_color=00FF00) | ![Semih'in En Çok Kullanılan Dilleri](https://github-readme-stats.vercel.app/api/top-langs/?username=semihkurucay&layout=compact&theme=dark&bg_color=000000&text_color=00FF00&icon_color=00FF00) |
+| İstatistikler | En Çok Kullanılan Diller | Code Wars |
+|---------------|---------------------------|-----------|
+| ![Semih'in GitHub istatistiği](https://github-readme-stats.vercel.app/api?username=semihkurucay&show_icons=true&theme=transparent) | ![Semih'in En Çok Kullanılan Dilleri](https://github-readme-stats.vercel.app/api/top-langs/?username=semihkurucay&layout=compact&theme=transparent)| ![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=semihkurucay)|
 
-| Code Wars |
-|-------------------------------------------|
-| ![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=semihkurucay)|
-
-![Profil Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=semihkurucay&color=green)
+![Profil Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=semihkurucay&color=blue)
 
 ## İletişim
 
