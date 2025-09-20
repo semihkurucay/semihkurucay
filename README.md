@@ -30,6 +30,6 @@ Ben *Semih Kuruçay*, Dr. Nurettin Erk Perian Erk MTAL'den Veri Tabanı bölüm�
 
 <br>
 
-<a href="https://www.linkedin.com/in/semih-kuruçay-246305221/?originalSubdomain=tr"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" alt="LinkedIn" /></a> | <a href="https://www.instagram.com/semih_kurucayy/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" alt="Instegram" /></a> | <a href="https://www.instagram.com/sk_yazilim/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" alt="Instegram" /></a>
+<a href="https://www.linkedin.com/in/semih-kuruçay-246305221/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" alt="LinkedIn" /></a> | <a href="https://www.instagram.com/semih_kurucayy/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" alt="Instegram" /></a> | <a href="https://www.instagram.com/sk_yazilim/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" alt="Instegram" /></a>
 
 </div>
