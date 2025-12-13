@@ -8,6 +8,7 @@ Ben *Semih Kuruçay*, Dr. Nurettin Erk Perian Erk MTAL'den Veri Tabanı bölüm�
 
 - *Java*
 - *C#*
+- *C*
 - *SQL*
 - *Photoshop*
 
