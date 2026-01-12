@@ -1,25 +1,23 @@
 <div align="center">
 
-# Merhaba Dünyalı 👋 
+# Hey, misafir hoş geldin :) 
 
-Ben *Semih Kuruçay*, Dr. Nurettin Erk Perian Erk MTAL'den Veri Tabanı bölümünden mezun oldum. Burası benim özgün ve yeni deneyimlerimi paylaştığım bir ortam.
+Kısaca ben *Semih Kuruçay*, Dr. Nurettin Erk Perian Erk MTAL'den Veri Tabanı bölümünden mezun oldum. Burası benim github'ım. Şu an İstanbul Aydın Üniversite'sinde Bilgisayar Programcılığı bölümünde okuyorum. Seni burada neler mi bekliyor? Benim yeni öğrendiğim diller, geliştirdiğim projeler karşılayacaktır. Biraz incele sana uyacak bir proje karşına çıkar belki.
 
-## Bildiğim Diller ve İlgilendiğim Uygulamalar:
+## Proje Geliştirdiklerim:
 
-- *Java*
-- *C#*
-- *C*
-- *SQL*
-- *Photoshop*
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://github.com/stars/semihkurucay/lists/automation)
+[![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://github.com/stars/semihkurucay/lists/web)
+[![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://github.com/semihkurucay?tab=repositories)
+[![C](https://skillicons.dev/icons?i=c&theme=light)](https://github.com/semihkurucay?tab=repositories)
 
 ---
 
-*Kapanışı bir söz ile bitiriyorum:*
+*Bilgisayar ne güzel demiş;*
 
-> "Kod yalan söylemez, yorumlar bazen söyler."  
-> — Ron Jeffries
+> 01001000-01101001
 <br><br>
-## 📈 GitHub İstatistiklerim
+## İstatistiklerim
 
 | İstatistikler | En Çok Kullanılan Diller | Code Wars |
 |---------------|---------------------------|-----------|
