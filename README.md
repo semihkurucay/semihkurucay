@@ -2,14 +2,18 @@
 
 # Hey, misafir hoş geldin :) 
 
-Kısaca ben *Semih Kuruçay*, Dr. Nurettin Erk Perian Erk MTAL'den Veri Tabanı bölümünden mezun oldum. Burası benim github'ım. Şu an İstanbul Aydın Üniversite'sinde Bilgisayar Programcılığı bölümünde okuyorum. Seni burada neler mi bekliyor? Benim yeni öğrendiğim diller, geliştirdiğim projeler karşılayacaktır. Biraz incele sana uyacak bir proje karşına çıkar belki.
+Ben Semih Kuruçay! 👋
+
+Dr. Nurettin Erk - Perihan Erk MTAL **Veri Tabanı Programcılığı** bölümünden mezun oldum. Şu anda **İstanbul Aydın Üniversitesi**'nde **Bilgisayar Programcılığı** bölümünde eğitimime devam ediyorum.
+
+Burada, öğrenme sürecimde edindiğim yeni yetkinlikleri, denediğim teknolojileri ve geliştirdiğim projeleri bulabilirsin. Kodlarımı inceleyip kendine uygun bir şeyler bulabilir veya projelerime katkıda bulunabilirsin. 🚀
 
 ## Proje Geliştirdiklerim:
 
-[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://github.com/stars/semihkurucay/lists/automation)
-[![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://github.com/stars/semihkurucay/lists/web)
-[![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://github.com/semihkurucay?tab=repositories)
-[![C](https://skillicons.dev/icons?i=c&theme=light)](https://github.com/semihkurucay?tab=repositories)
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://github.com/stars/semihkurucay/lists/java)
+[![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://github.com/stars/semihkurucay/lists/spring)
+[![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://github.com/stars/semihkurucay/lists/cs)
+[![C](https://skillicons.dev/icons?i=c&theme=light)](https://github.com/stars/semihkurucay/lists/c)
 
 ---
 
