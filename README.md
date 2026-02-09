@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hey, misafir hoş geldin :) 
 
@@ -8,7 +8,11 @@ Dr. Nurettin Erk - Perihan Erk MTAL **Veri Tabanı Programcılığı** bölümü
 
 Burada, öğrenme sürecimde edindiğim yeni yetkinlikleri, denediğim teknolojileri ve geliştirdiğim projeleri bulabilirsin. Kodlarımı inceleyip kendine uygun bir şeyler bulabilir veya projelerime katkıda bulunabilirsin. 🚀
 
-## Proje Geliştirdiklerim:
+---
+
+<div align="center">
+  
+## Geliştirdiğim Projeler;
 
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://github.com/stars/semihkurucay/lists/java)
 [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://github.com/stars/semihkurucay/lists/spring)
@@ -20,7 +24,9 @@ Burada, öğrenme sürecimde edindiğim yeni yetkinlikleri, denediğim teknoloji
 *Bilgisayar ne güzel demiş;*
 
 > 01001000-01101001
-<br><br>
+
+---
+
 ## İstatistiklerim
 
 | İstatistikler | En Çok Kullanılan Diller | Code Wars |
