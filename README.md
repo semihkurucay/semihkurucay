@@ -54,28 +54,6 @@ Uzun süre MSSQL ile çalıştıktan sonra veri tabanı mimarimi **PostgreSQL**'
 
 ---
 
-### 🚀 Geliştirdiğim Projeler
-
-<div align="center">
-  <p>Aşağıdaki butonlara tıklayarak ilgili dilde geliştirdiğim ve derlediğim proje listelerime göz atabilirsin:</p>
-  <br>
-  <a href="https://github.com/stars/semihkurucay/lists/java">
-    <img src="https://img.shields.io/badge/-Java_Projeleri-0D1117?style=for-the-badge&logo=java&logoColor=2ea44f" alt="Java Projects" />
-  </a>
-  <a href="https://github.com/stars/semihkurucay/lists/spring">
-    <img src="https://img.shields.io/badge/-Spring_Projeleri-0D1117?style=for-the-badge&logo=springboot&logoColor=2ea44f" alt="Spring Projects" />
-  </a>
-  <a href="https://github.com/stars/semihkurucay/lists/cs">
-    <img src="https://img.shields.io/badge/-C%23_Projeleri-0D1117?style=for-the-badge&logo=csharp&logoColor=2ea44f" alt="C# Projects" />
-  </a>
-  <a href="https://github.com/stars/semihkurucay/lists/c">
-    <img src="https://img.shields.io/badge/-C_Projeleri-0D1117?style=for-the-badge&logo=c&logoColor=2ea44f" alt="C Projects" />
-  </a>
-</div>
-<br>
-
----
-
 ### 📊 Dinamik İstatistikler ve Aktiviteler
 
 <div align="center">
