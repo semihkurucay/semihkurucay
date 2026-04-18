@@ -54,16 +54,7 @@ Uzun süre MSSQL ile çalıştıktan sonra veri tabanı mimarimi **PostgreSQL**'
 
 ---
 
-### 📊 Dinamik İstatistikler ve Aktiviteler
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=semihkurucay&bg_color=0D1117&color=2ea44f&line=2ea44f&point=ffffff&area=true&hide_border=true&custom_title=Geli%C3%9Ftirici+Katk%C4%B1+Grafi%C4%9Fi&title_color=2ea44f&axes_color=ffffff" width="100%" alt="Semih's Contribution Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=semihkurucay&theme=dark&hide_border=true&background=0D1117&border=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2ea44f&sideLabels=ffffff&dates=ffffff&ring=2ea44f&fire=2ea44f" height="160" alt="GitHub Streak Stats" />
   <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=semihkurucay&backgroundColor=0D1117&borderColor=ffffff&textColor=ffffff&primaryColor=2ea44f" height="160" alt="CodeWars Stats" />
 </div>
 
