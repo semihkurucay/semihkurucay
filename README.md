@@ -16,7 +16,7 @@
 
 Temellerimi **Dr. Nurettin Erk - Perihan Erk MTAL Veri Tabanı Programcılığı** bölümünde attım. Şu anda **İstanbul Aydın Üniversitesi Bilgisayar Programcılığı** bölümünde eğitimime devam ediyorum. 
 
-Uzun süre MySQL ile çalıştıktan sonra veri tabanı mimarimi **PostgreSQL**'e taşıdım. Ana odak noktam **Java ve Spring Boot** kullanarak sağlam, ölçeklenebilir REST API'ler geliştirmek ve uygulamalarımı **Docker** ile konteynerize etmek. Her gün temiz kod yazmaya, algoritmik düşünme becerimi geliştirmeye ve modern backend mimarilerini keşfetmeye devam ediyorum.
+Uzun süre MSSQL ile çalıştıktan sonra veri tabanı mimarimi **PostgreSQL**'e taşıdım. Ana odak noktam **Java ve Spring Boot** kullanarak sağlam, ölçeklenebilir REST API'ler geliştirmek ve uygulamalarımı **Docker** ile konteynerize etmek. Her gün temiz kod yazmaya, algoritmik düşünme becerimi geliştirmeye ve modern backend mimarilerini keşfetmeye devam ediyorum.
 
 ---
 
