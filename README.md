@@ -54,6 +54,25 @@ Uzun süre MSSQL ile çalıştıktan sonra veri tabanı mimarimi **PostgreSQL**'
 
 ---
 
+### ⭐ Öne Çıkan Projelerim
+
+<div align="center">
+  <a href="https://github.com/semihkurucay/proService">
+    <img src="https://img.shields.io/badge/proService-teknik%20servis-2ea44f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/semihkurucay/JobFind">
+    <img src="https://img.shields.io/badge/JobFind-is%20arama%20bulma%20platformu-2ea44f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/semihkurucay/InventoryFinancialTracking">
+    <img src="https://img.shields.io/badge/InventoryFinancialTracking-stok%20yonetim%20platformu-2ea44f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/semihkurucay/lawSystem_web">
+    <img src="https://img.shields.io/badge/lawSystem-dava%20takip%20sistemi-2ea44f?style=for-the-badge" />
+  </a>
+</div>
+
+---
+
 <div align="center">
   <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=semihkurucay&backgroundColor=0D1117&borderColor=ffffff&textColor=ffffff&primaryColor=2ea44f" height="160" alt="CodeWars Stats" />
 </div>
